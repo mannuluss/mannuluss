@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Felipe Rojas 🚀🎮
+I'm software ingenier
+
+- 💻 &nbsp;
+<img src="LinkedIn">
+
+
+### Languages and Tools:
+
+## My projects
+
+
+
+> [!NOTE]
+> Front en angular para manejar la autenticacion con JWT y spring boot, utilizando interceptores y authGuard
+
+
+
 
 <!--
 **mannuluss/mannuluss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
